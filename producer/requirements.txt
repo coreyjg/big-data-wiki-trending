@@ -1,0 +1,2 @@
+confluent-kafka==2.2.0
+sseclient-py==1.7.2
