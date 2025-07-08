@@ -66,7 +66,7 @@ spark-submit \
 
 - Add graceful shutdown handling (e.g. trap SIGTERM → `query.stop()`)
 - Externalize any remaining hard-coded settings and add validation
-- Bake in your chosen log-level (you’ve set it to `WARN` in code)
+- Bake in the log level (`WARN`) in code
 
 ### 📈 Deploy & monitor
 
